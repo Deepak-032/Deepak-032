@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deepak-032
-- 👀 Ambitious Full Stack Developer with strong problem-solving skills and deep expertise in JavaScript, React.js, and cloud technologies. Passionate about learning new technologies and enhancing performance through innovative solutions. Seeking challenging roles to leverage my skills in creating scalable and efficient applications.
+- 👀 Ambitious Full Stack Developer with strong problem-solving skills and deep expertise in JavaScript, React.js, and cloud technologies. Passionate about learning new technologies and enhancing performance through innovative solutions.
 - 💼 Working in Microsoft as a technical support engineer in Azure.
 - 📫 Reach me at dkart032@gmail.com to collaborate
 
